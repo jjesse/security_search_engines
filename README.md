@@ -1,11 +1,14 @@
-# security_search_engines
+# List of Cyber Security Specific Search Engines
+
+## About this list
+
+Looking to find things specific to Cyber Security, the following search
 
 A list of cybersecurity specific search engines taken from LinkedIn Post <https://www.linkedin.com/posts/danielmakelley_here-are-21-cybersecurity-search-engines-activity-6968997182800584704-f9XB/> and then comments on that post
 
+## The list
 
-
-
-1. Shodan—Search for devices connected to the internet.
+1. Shodan <https://shodoan.io> — Search for devices connected to the internet.
 2. Wigle—Database of wireless networks, with statistics.
 3. Grep App—Search across a half million git repos.
 4. Binary Edge—Scans the internet for threat intelligence.
@@ -27,6 +30,6 @@ A list of cybersecurity specific search engines taken from LinkedIn Post <https:
 20. Packet Storm Security—Browse latest vulnerabilities and exploits.
 21. GrayHatWarefare—Search public S3 buckets.
 22. VirusTotal
-23. EchoTrail https://ww.echotrail.io
-24. Phishtank https://phistank.com
-25. OSI Int Framework https://osintframework.com
+23. EchoTrail <https://ww.echotrail.io>
+24. Phishtank <https://phistank.com>
+25. OSI Int Framework <https://osintframework.com>
