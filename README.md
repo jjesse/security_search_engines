@@ -9,10 +9,10 @@ A list of cybersecurity specific search engines taken from LinkedIn Post <https:
 ## The list
 
 1. Shodan <https://shodoan.io> — Search for devices connected to the internet.
-2. Wigle—Database of wireless networks, with statistics.
-3. Grep App—Search across a half million git repos.
-4. Binary Edge—Scans the internet for threat intelligence.
-5. ONYPHE—Collects cyber-threat intelligence data.
+2. Wigle <https://www.wigle.net/> - Database of wireless networks, with statistics.
+3. Grep App <https://grep.app/> - Search across a half million git repos.
+4. Binary Edge <https://app.binaryedge.io/> — Scans the internet for threat intelligence.
+5. ONYPHE <https://www.onyphe.io/> - Collects cyber-threat intelligence data.
 6. GreyNoise—Search for devices connected to the internet.
 7. Censys—Assessing attack surface for internet connected devices.
 8. Hunter—Search for email addresses belonging to a website.
